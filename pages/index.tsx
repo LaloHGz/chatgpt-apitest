@@ -52,7 +52,7 @@ export default function Home(){
   return(
     <div className="w-full">
       <div className="flex flex-col items-center justify-center mt-40 text-center">
-        <h1 className="text-6xl">Hi there, I am ChatGPT</h1>
+        <h1 className="text-6xl">ChatGPT API Test by Coffe Break</h1>
         <div className="my-12">
           <p className="mb-6 font-bold">Type your prompt</p>
           <input 
